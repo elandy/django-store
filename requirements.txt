@@ -1,0 +1,5 @@
+django
+django-oscar
+sorl-thumbnail
+sqlalchemy
+pycountry
